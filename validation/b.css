@@ -1,0 +1,35 @@
+.body{
+		background: url(img/b.jpeg);
+background-size: cover;
+background-position: center;
+
+
+}
+.login-box{
+	max-width: 700px;
+	float: none;
+	margin: 150px auto;
+
+}
+.left{
+	background: rgba(211,211,211,0.5);
+	padding: 30px;
+}
+.right{
+	background: #fff;
+	padding: 30px;
+}
+.form-control{
+	background-color: transparent !important;
+	border-radius: 12px;
+}
+.right input{
+	background-color: blue;
+
+}
+.j{
+	background: url(img/d.jpeg);
+	background-position:center;
+	background-size: cover;
+
+}
